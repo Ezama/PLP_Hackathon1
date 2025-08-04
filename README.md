@@ -22,3 +22,8 @@ I’m Innocent Ezama, a data analyst passionate about turning real-world problem
 - CSS3 (Vanilla CSS — no frameworks)
 - Responsive design with media queries
 - Animations and transitions using pure CSS
+- Github Pages - Deployment
+
+## Visit site
+
+https://ezama.github.io/PLP_Hackathon1/
